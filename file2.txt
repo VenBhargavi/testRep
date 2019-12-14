@@ -5,3 +5,4 @@ adding content
 
 changing content on local
 
+Adding this line to confirm Forking is made, cloned to my machine and able to 'stage and commit' request with this one line change.
